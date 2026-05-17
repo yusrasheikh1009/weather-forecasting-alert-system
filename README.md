@@ -93,12 +93,18 @@ Compares all 40 cities based on:
 - AQI levels
 
 ---
-## 📸 Screenshots
-Includes dashboard view, 20-day forecast graph, city comparison analysis, and activity recommendation engine.
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 102805.png
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101525.png
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101809.png
+📸 Screenshots
+🌦 Dashboard Overview
 
+📌 ![alt text](<Screenshot 2026-05-17 102805.png>)
+
+📈 20-Day Forecast Graph
+
+📌 ![alt text](<Screenshot 2026-05-17 101525.png>)
+
+🏕 Activity Recommendation System
+
+📌 ![alt text](<Screenshot 2026-05-17 101809.png>)
 
 ## 🖥️ How to Run Project
 
