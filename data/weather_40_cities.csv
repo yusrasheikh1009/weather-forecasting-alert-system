@@ -1,0 +1,42 @@
+city,country,temperature,humidity,weather,rain_chance,wind_speed,aqi
+Bangalore,India,32,70,cloudy,20,12,45
+Delhi,India,45,60,hot,10,15,130
+Mumbai,India,30,85,rain,80,25,70
+Chennai,India,38,78,humid,40,18,90
+Kolkata,India,34,80,rain,75,20,85
+
+New York,USA,28,65,clear,10,20,55
+Los Angeles,USA,25,55,sunny,5,15,40
+Chicago,USA,22,70,windy,30,28,60
+Houston,USA,33,75,humid,50,22,80
+San Francisco,USA,18,70,fog,20,18,50
+
+London,UK,18,80,rain,70,18,65
+Manchester,UK,16,85,cloudy,60,20,70
+Birmingham,UK,17,82,drizzle,65,19,68
+Liverpool,UK,15,88,rain,75,22,72
+Edinburgh,UK,14,85,windy,55,25,66
+
+Paris,France,20,70,clear,20,14,50
+Berlin,Germany,19,68,cloudy,25,16,55
+Madrid,Spain,30,50,sunny,5,10,40
+Rome,Italy,28,60,clear,15,12,45
+Milan,Italy,27,65,cloudy,20,14,48
+
+Tokyo,Japan,27,75,rain,60,22,75
+Osaka,Japan,26,78,humid,65,20,80
+Kyoto,Japan,25,80,rain,70,18,78
+Seoul,South Korea,24,70,cloudy,30,20,60
+Busan,South Korea,23,72,windy,35,22,62
+
+Sydney,Australia,24,65,sunny,10,18,42
+Melbourne,Australia,20,70,cloudy,30,25,50
+Brisbane,Australia,28,60,sunny,15,20,45
+Perth,Australia,26,55,clear,10,18,40
+Adelaide,Australia,22,65,windy,20,22,48
+
+Dubai,UAE,42,35,hot,5,12,120
+Abu Dhabi,UAE,41,38,hot,5,14,118
+Singapore,Singapore,31,85,rain,75,18,60
+Bangkok,Thailand,33,80,humid,65,20,85
+Jakarta,Indonesia,32,88,rain,80,22,90
