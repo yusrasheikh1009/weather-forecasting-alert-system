@@ -93,6 +93,12 @@ Compares all 40 cities based on:
 - AQI levels
 
 ---
+## 📸 Screenshots
+Includes dashboard view, 20-day forecast graph, city comparison analysis, and activity recommendation engine.
+c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 102805.png
+c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101525.png
+c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101809.png
+
 
 ## 🖥️ How to Run Project
 
@@ -127,12 +133,6 @@ weather-ai-dashboard/
 📊 20-day forecast visualization
 🌍 City comparison charts
 🏕 Activity recommendation system
-
-## 📸 Screenshots
-Includes dashboard view, 20-day forecast graph, city comparison analysis, and activity recommendation engine.
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 102805.png
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101525.png
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 101809.png
 
 🌍 Real-World Applications
 ✈ Travel planning systems
